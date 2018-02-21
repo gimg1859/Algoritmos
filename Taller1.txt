@@ -1,8 +1,0 @@
-Fibonacci:
-Desarrolle programas iterativos que calculen el n termino de la  la serie de Fibonacci  en Java y C-C++, usando los variables enteras de los tipo disponibles en cada lenguaje, y determine para para que valor de n se produce un overflow
-Desarrolle un programas iterativo que calculen el n termino de la  la serie de Fibonacci  en Python que retorne el tiempo de ejecución y use mathplotlib y utilícelos para graficar el tiempo de ejecución en función de n 
-Publique  1 y 2 en entradas su cuenta de Github          
-Matrix: Desarrolle un programas en Java, C-C++, Python y Python usando arreglos Numpy que multiplican una matriz cuadrada con entradas  1's por con entradas 2's  y que retorne el tiempo estimado por instrucción (considerando sumas y productos)  utilícelos para graficar tiempo estimado por instrucción  en función de n, publique los códigos y   en entradas su cuenta de Github
-Hacker Rank: Complete los problemas básicos de practica de Python en  www.hackerrank.com -> Practice -> Python
-Hacker Earth: Complete los problemas de practica para Bubble Sort e Insertion Sort en  Python  en www.hackerearth.com -> Practice -> Sorting
-Insertion Sort: Desarrolle panoramas en Python que ejecuten Insertion Sort sobre todas permutaciones y sobre una muestra aleatorias de permutations y genere el numero promedio y la distribución del numero de instrucciones, comparaciones y intercambios que se requieren para ordenar publique el código y los resultados en una entrada su cuenta de Github.  
