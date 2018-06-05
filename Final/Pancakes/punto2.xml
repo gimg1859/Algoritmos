@@ -1,0 +1,27 @@
+<pancakes>
+  <case/>
+  <case>permutation="1234"</case>
+  <case>permutation="1243"</case>
+  <case>permutation="1324"</case>
+  <case>permutation="1342"</case>
+  <case>permutation="1423"</case>
+  <case>permutation="1432"</case>
+  <case>permutation="2134"</case>
+  <case>permutation="2143"</case>
+  <case>permutation="2314"</case>
+  <case>permutation="2341"</case>
+  <case>permutation="2413"</case>
+  <case>permutation="2431"</case>
+  <case>permutation="3124"</case>
+  <case>permutation="3142"</case>
+  <case>permutation="3214"</case>
+  <case>permutation="3241"</case>
+  <case>permutation="3412"</case>
+  <case>permutation="3421"</case>
+  <case>permutation="4123"</case>
+  <case>permutation="4132"</case>
+  <case>permutation="4213"</case>
+  <case>permutation="4231"</case>
+  <case>permutation="4312"</case>
+  <case>permutation="4321"</case>
+</pancakes>

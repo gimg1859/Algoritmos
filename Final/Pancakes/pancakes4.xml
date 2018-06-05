@@ -1,0 +1,27 @@
+<pancakes>
+  <case/>
+  <case>permutation="1234" flips=""</case>
+  <case>permutation="1243" flips="020"</case>
+  <case>permutation="1324" flips="212"</case>
+  <case>permutation="1342" flips="201"</case>
+  <case>permutation="1423" flips="102"</case>
+  <case>permutation="1432" flips="010"</case>
+  <case>permutation="2134" flips="2"</case>
+  <case>permutation="2143" flips="101"</case>
+  <case>permutation="2314" flips="12"</case>
+  <case>permutation="2341" flips="01"</case>
+  <case>permutation="2413" flips="2102"</case>
+  <case>permutation="2431" flips="021"</case>
+  <case>permutation="3124" flips="21"</case>
+  <case>permutation="3142" flips="2012"</case>
+  <case>permutation="3214" flips="1"</case>
+  <case>permutation="3241" flips="012"</case>
+  <case>permutation="3412" flips="202"</case>
+  <case>permutation="3421" flips="02"</case>
+  <case>permutation="4123" flips="10"</case>
+  <case>permutation="4132" flips="120"</case>
+  <case>permutation="4213" flips="210"</case>
+  <case>permutation="4231" flips="0212"</case>
+  <case>permutation="4312" flips="20"</case>
+  <case>permutation="4321" flips="0"</case>
+</pancakes>
